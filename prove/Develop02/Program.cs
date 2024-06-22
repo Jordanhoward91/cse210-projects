@@ -1,3 +1,8 @@
+// Enhanced feature: Saving and loading journal entries in a proper CSV format
+// that can be opened in Excel. This involves handling commas and quotation marks
+// appropriately in the content of the entries.
+
+
 using System;
 
 class Program
@@ -47,6 +52,4 @@ class Program
     }
 }
 
-// Enhanced feature: Saving and loading journal entries in a proper CSV format
-// that can be opened in Excel. This involves handling commas and quotation marks
-// appropriately in the content of the entries.
+
